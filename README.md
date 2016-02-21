@@ -1,0 +1,3 @@
+# AlmsGiving-LITG-project
+Alms-Giving : A Crowd Funding community for charity organisations
+To create a global website using Ruby on Rails that makes it possible for local charity organizations like MAD( Make a difference), Chilla, Belong, Amara, Guardians of Dreams, Cry or any other NGO's or grassroot organisations of the like to access funding,tools, training,support & crowdfunding . User groups include willing volunteers,companies or residential groups or even individuals around the globe who wants to donate. This website gives these organization a worldwide platform to Collaborate, work and show it  to the world. Events and News regarding each organization also will be update on the website, which gives them more coverage all over the world.
